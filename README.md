@@ -1,2 +1,2 @@
 # customer-clustering
-A clustering case based on the RFM (Recency, Frequency and Monetary) metrics of the customers.
+A clustering case based on the customers RFM (Recency, Frequency and Monetary) metrics.
